@@ -174,8 +174,8 @@ The WhatsApp Bot LEONAED MD is released under the [MIT License](https://opensour
     <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/255655192476?"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
-    <td><a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
+    <td><a href="https://wa.me/255655192476?"><img src="https://files.catbox.moe/9bgloy.jpeg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"><img src="https://files.catbox.moe/zqjprh.jpeg" width="180"</td>
   </tr>
 </table>
 

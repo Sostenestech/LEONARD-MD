@@ -135,3 +135,51 @@ CONTACT DEVELOPER ON WHATSAPP
  
 <a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ LEONARD_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+
+
+
+
+  ## License
+
+The WhatsApp Bot LEONAED MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+number-one; don't-trust+any one+🖐️😊;DEVELOPED+BY+LEONARD+TECH;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+
+
+🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 LEONARD🍀_MD 🌟
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+LEONARD- MD+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
+
+## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
+
+- [**LEONARD TECH**](https://github.com/sostenestech)
+
+
+★im born to win😊. ©
+     
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=33&pause=1000&color=5513F7&width=435&lines=keep+using+LEONARD+MD😊" alt="Typing SVG" /></a>
+
+
+
+
+
+*KINGDOM*
+
+<table>
+  <tr>
+    <td>LEONARD</td></td>
+    <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
+  </tr>
+  <tr>
+    <td><a href="https://wa.me/255655192476?"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
+    <td><a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"><img src="https://i.imgur.com/5cfyybs.jpeg" width="180"</td>
+  </tr>
+</table>
+
+</p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+

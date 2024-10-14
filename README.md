@@ -86,3 +86,52 @@ star✨ my repo if you like this bot🤖
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 - <a href="https://anthony-boniphace.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+
+
+
+
+
+
+### 3.THIRD STEP 
+1. If You Don't Have An Account On Heroku**
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+   <br>
+    <a 
+- <a align="center"><a href="https://signup.heroku.com">
+ <img src="https://img.shields.io/badge/Create%20Account%20Now-darkblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+
+### 2. If You Have Account On Heroku**👇 👇 👇
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
+ 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+   <br>
+    - <a href='https://dashboard.heroku.com/new?template=https://github.com/sostenestech/LEONARD-MD-1/tree/main' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
+
+
+### DEPLOY ON RENDER
+
+1. If you don't have an account in RENDER, create one and deploy.
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+   <br>
+    <a href='https://dashboard.render.com/select-repo?type=web' target="_darkblue"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-red?style=for-the-badge&logo=render&logoColor=white'/></a>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+   ###
+
+CONTACT DEVELOPER ON WHATSAPP 
+
+<a href="https://wa.me/255655192476" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/boniphace tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+
+
+  
+ 
+<a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14" target="_blank">
+    <img alt="whatsapp Group" src="https://img.shields.io/badge/ LEONARD_TECH  CHANNEL -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />

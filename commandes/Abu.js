@@ -44,7 +44,7 @@ const date = moment().format('DD/MM/YYYY');
 > https://chat.whatsapp.com/J54tT9uXXO81QLARCr7qQK
 
 *For more info*
-> https://github.com/betingrich
+> https://github.com/Sostenestech
   `;
     
 let menuMsg = `

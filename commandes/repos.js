@@ -3,8 +3,8 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
 zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/betingrich/Tesla';
-  const img = 'https://telegra.ph/file/db890d1a98e3ab7ef631a.jpg';
+  const githubRepo = 'https://api.github.com/repos/sostencetech/LEORNARD-MD';
+  const img = 'https://files.catbox.moe/ps8cqh.jpg';
 
   try {
     const response = await fetch(githubRepo);
@@ -25,7 +25,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __
 🏎️ *Pair Code* https://bugatti-session.onrender.com
 🏎️ *Repo:* ${data.html_url}
 🏎️ *Stars:* ${repoInfo.stars}
-🏎️ *𝗙𝗼𝗿𝗸𝘀:* ${repoInfo.forks}
+🏎️ *Forks:* ${repoInfo.forks}
 🏎️ *Released Date:* ${releaseDate}
 🏎️ *Updated on:* ${repoInfo.lastUpdate}
 🏎️ *Owner:* *Leonard*

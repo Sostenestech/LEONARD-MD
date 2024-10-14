@@ -6,7 +6,7 @@ zokou({ nomCom: "ping", reaction: "🚔", nomFichier: __filename }, async (dest,
     let z = 'Leornard Response Speed Is';
     let d = '0.01m/s';
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/4b41a0e0cbff3f85c4a3a.jpg';
+    var img = 'https://files.catbox.moe/tit4f5.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });

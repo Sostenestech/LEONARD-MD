@@ -43,3 +43,46 @@
   <a href="https://dashboard.heroku.com/new?template=https://github.com/sostenestech/LEONARD-MD-1/tree/main"><img src="https://img.shields.io/badge/heroku-9d7acc?style=for-the-badge&logo=heroku&logoColor=430098"></a>
   <a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"><img src="https://img.shields.io/badge/CodeSpace-green?colorA=%23ff000&colorB=%23017e40&style=for-the-badge&logo=git&logoColor=white"></a>
 </p>
+
+
+
+
+
+
+## HOW TO DEPLOY LEONARD MD
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+## 1.FIRST STEP 
+## Fork Boniphace Md Repo
+👇 👇  👇 👇
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
+ 
+- <a href="https://github.com/sostenestech/LEONARD-MD/fork"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/FORK THIS REPO-h?color=darkblue&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+star✨ my repo if you like this bot🤖
+
+
+## 2.SECOND STEP 
+
+
+ GET SESSION ID BY
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
+
+
+### QR SITE
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+- <a href="https://anthony-boniphace.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
+
+### SESSION SITE
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
+
+- <a href="https://anthony-boniphace.onrender.com"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/PAIRING CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>

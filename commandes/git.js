@@ -34,19 +34,19 @@ const temps = moment().format('HH:mm:ss');
 const date = moment().format('DD/MM/YYYY');
 
   let infoMsg =  `
-   *BUGATTI IMPORTANT INFO* 
+   *LEONARD MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/betingrich/King
+> https://github.com/Sostenestech/LEONARD
 
 *WHATSAPP CHANNEL*
 > https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://wa.me/254740007567?text=Hi+Marisel+I+Need+Help
+> https://wa.me/254740007567?text=Hi+Leonard+I+Need+Help
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
-│❒⁠⁠⁠⁠ *DEV* : *Marisel*
+│❒⁠⁠⁠⁠ *DEV* : *𝗟𝗲𝗼𝗻𝗮𝗿𝗱 *
 ⁠⁠⁠⁠╰───────────────────❒
   `;
     

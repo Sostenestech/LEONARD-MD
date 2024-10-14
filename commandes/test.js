@@ -4,9 +4,9 @@ const { zokou } = require("../framework/zokou");
 zokou({ nomCom: "test", reaction: "🤓", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
     console.log("Commande saisie !!!s");
     let z = 'This is  *Leornard-Md* \n ' + "The chosen Bot";
-    let d = 'Made by  *Leoy*'
+    let d = 'Made by  *Leornard*'
     let varmess = z + d;
-    var img = 'https://telegra.ph/file/313bd970c3b20f74ab420.jpg';
+    var img = 'https://files.catbox.moe/tit4f5.jpg';
     await zk.sendMessage(dest, { image: { url: img }, caption: varmess });
     //console.log("montest")
 });

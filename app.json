@@ -1,9 +1,9 @@
 {
-  "name":"BERA TECH",
+  "name":"LEORNARD MD",
   "description":"Best whatsapp bot developed by BRUCE BERA",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://i.ibb.co/4jBhn13/Socialthumb.jpg",
-  "repository":"https://github.com/berabotsmd/BERA-TECH",
+  "logo":"https://files.catbox.moe/ps8cqh.jpg",
+  "repository":"https://github.com/Sostenestech/LEONARD-MD",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -42,7 +42,7 @@
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://i.ibb.co/4jBhn13/Socialthumb.jpg",
+      "value":"https://files.catbox.moe/ps8cqh.jpg",
       "required":false
        
      },
@@ -81,7 +81,7 @@
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "254743982206,254787527753"
+    "value": "255655192476"
   },
     "WARN_COUNT":
   {

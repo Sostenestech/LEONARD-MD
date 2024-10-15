@@ -22,7 +22,7 @@ zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __
       const lastUpdateDate = new Date(data.updated_at).toLocaleDateString('en-GB');
 
       const gitdata = `*Hi,I am* *Leonard-Md.*\n  
-🏎️ *Pair Code* https://bugatti-session.onrender.com
+🏎️ *Pair Code* https://Leonard-session.onrender.com/
 🏎️ *Repo:* ${data.html_url}
 🏎️ *Stars:* ${repoInfo.stars}
 🏎️ *Forks:* ${repoInfo.forks}

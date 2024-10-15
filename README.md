@@ -6,7 +6,7 @@
  <a href="https://files.catbox.moe/qjtcgv.jpeg">
  <img alt="LEONARD-MD" height="300" src="https://files.catbox.moe/qjtcgv.jpeg">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+𝗟𝗘𝗢𝗡𝗔𝗥𝗗+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗟𝗘𝗢𝗡𝗔𝗥𝗗.𝗧𝗘𝗖𝗛;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒𝗟𝗘𝗢𝗡𝗔𝗥𝗗࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+𝙆𝙄𝙉𝙂╺+𝗟𝗘𝗢𝗡𝗔𝗥𝗗+-+𝗕𝗢𝗧.;𝙿𝙾𝚆𝙴𝚁𝙳+𝙱𝚈:+𝐌𝐑+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐓𝐄𝐀𝐌;ℂ𝕣𝕖𝕒𝕥𝕖𝕕+𝕓𝕪:+𝗟𝗘𝗢𝗡𝗔𝗥𝗗.𝗧𝗘𝗖𝗛;𝐌𝐑:+☬𝔻𝔸ℝ𝕂༒𝗟𝗘𝗢𝗡𝗔𝗥𝗗࿐;💕𝐩𝐨𝐰𝐞𝐫𝐟𝐮𝐥;😁𝐰𝐚+𝐛𝐨𝐭🌹.)](https://git.io/typing-svg)
 
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">

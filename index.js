@@ -80,7 +80,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['BUGATTI', "safari", "1.0.0"],
+            browser: ['LEONARD, "Safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -154,10 +154,10 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '254740007567';
-            const dj2 = '254740007567';
-            const dj3 = "254740007567";
-            const luffy = '25490375710';
+            const dj = '255655192476';
+            const dj2 = '255655192476';
+            const dj3 = "255655192476";
+            const luffy = '255757103671';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -165,7 +165,7 @@ setTimeout(() => {
             
             var dev = [dj, dj2,dj3,luffy].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            console.log("\t [][]...{BUGATTI}...[][]");
+            console.log("\t [][]...{LEONARD}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message sent from : " + nomGroupe);
@@ -526,7 +526,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: '𝐁𝐮𝐠𝐚𝐭𝐭𝐢',
+                pack: '𝐋𝐞𝐨𝐧𝐚𝐫𝐝',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -684,7 +684,7 @@ zk.ev.on('group-participants.update', async (group) => {
 ╚════◇◇◇═════╝
 ◇ *Descriptioon*   ◇
 
-${metadata.desc}\n\n> 𝐁𝐮𝐠𝐚𝐭𝐭𝐢 𝐁𝐲 𝐌𝐚𝐫𝐢𝐬𝐞𝐥.`;
+${metadata.desc}\n\n> 𝐋𝐞𝐨𝐧𝐚𝐫𝐝-𝐦𝐝 𝐁𝐲 𝐋𝐞𝐨𝐧𝐚𝐫𝐝 𝐓𝐞𝐜𝐡.`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
@@ -848,21 +848,21 @@ ${metadata.desc}\n\n> 𝐁𝐮𝐠𝐚𝐭𝐭𝐢 𝐁𝐲 𝐌𝐚𝐫𝐢𝐬
                 else {
                     md = "undefined";
                 }
-                console.log("Bugatti successfully connected✅");
+                console.log("Leonard successfully connected✅");
 
                 await activateCrons();
                 
                 if((conf.DP).toLowerCase() === 'yes') {     
-                let cmsg = `𝐁𝐮𝐠𝐚𝐭𝐭𝐢 𝐢𝐬 𝐎𝐧𝐥𝐢𝐧𝐞  ⏳\n${readmore}
+                let cmsg = `𝐋𝐞𝐨𝐧𝐚𝐫𝐝 𝐢𝐬 𝐎𝐧𝐥𝐢𝐧𝐞  ⏳\n${readmore}
     
     𝗣𝗿𝗲𝗳𝗶𝘅 : [ ${prefixe} ]
     𝗠𝗼𝗱𝗲 :${md} mode
     𝗣𝗹𝘂𝗴𝗶𝗻𝘀 : 245
     𝗥𝗮𝗺 : 𝟲𝟴/𝟭𝟯𝟮 𝗚𝗕
     𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝗟𝗶𝗻𝘂𝘅
-    𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : 𝐌𝐚𝐫𝐢𝐬𝐞𝐥
+    𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : 𝐋𝐞𝐨𝐧𝐚𝐫𝐝
 
-> 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐃𝐞𝐩𝐥𝐨𝐲𝐢𝐧𝐠 𝐁𝐮𝐠𝐚𝐭𝐭𝐢`;
+> 𝐓𝐡𝐚𝐧𝐤 𝐲𝐨𝐮 𝐟𝐨𝐫 𝐃𝐞𝐩𝐥𝐨𝐲𝐢𝐧𝐠 𝐋𝐞𝐨𝐧𝐚𝐫𝐝 𝐦𝐝`;
                     
                 await zk.sendMessage( zk.user.id, { text: cmsg });
                 }

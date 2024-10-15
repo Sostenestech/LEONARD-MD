@@ -7,7 +7,7 @@ const moment = require("moment-timezone");
 const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
-zokou({ nomCom: "bugatti", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "marisel", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -33,11 +33,10 @@ const date = moment().format('DD/MM/YYYY');
 ┃๏│▸ 𝗠𝗼𝗱𝗲 : *${mode}*
 ┃๏│▸ 𝗗𝗮𝘁𝗲  : *${date}* 
 ┃๏│▸ 𝗥𝗮𝗺 : 𝟴/𝟭𝟯𝟮 𝗚𝗕
-┃๏│▸ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : 𝗖𝗵𝗿𝗼𝗺𝗲 𝗟𝗶𝗻𝘂𝘅
-┃๏│▸ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 : 𝗠𝗮𝗿𝗶𝘀𝗲𝗹
+┃๏│▸ 𝗣𝗹𝗮𝘁𝗳𝗼𝗿𝗺 : Linux
 ┃๏└───────────···▸
 ╰──────────────┈⊷\n${readmore}`;
-    let menuMsg = `𝐓𝐄𝐒𝐋𝐀 𝐏𝐋𝐔𝐆𝐈𝐍𝐒
+    let menuMsg = `𝐏𝐋𝐔𝐆𝐈𝐍𝐒
 `;
     for (const cat in coms) {
         menuMsg += `
@@ -54,7 +53,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰────────────┈⊷`
     }
     menuMsg += `
-> 𝐓𝐄𝐒𝐋𝐀 𝐁𝐘 𝐌𝐀𝐑𝐈𝐒𝐄𝐋\n
+> Leornard \n
 `;
    var lien = mybotpic();
    if (lien.match(/\.(mp4|gif)$/i)) {

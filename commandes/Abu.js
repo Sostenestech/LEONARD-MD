@@ -9,7 +9,7 @@ const s = require(__dirname + "/../set");
 const more = String.fromCharCode(8206)
 const readmore = more.repeat(4001)
 
-zokou({ nomCom: "Tesla", categorie: "General" }, async (dest, zk, commandeOptions) => {
+zokou({ nomCom: "About", categorie: "General" }, async (dest, zk, commandeOptions) => {
     let { ms, repondre ,prefixe,nomAuteurMessage,mybotpic} = commandeOptions;
     let { cm } = require(__dirname + "/../framework//zokou");
     var coms = {};
@@ -38,17 +38,17 @@ const date = moment().format('DD/MM/YYYY');
 *𝑌𝑒𝑠 𝑀𝑦 𝐺𝑢𝑦 𝑊ℎ𝑎𝑡'𝑠 𝑈𝑝?* 
 *𝐷𝑜 𝑀𝑒 𝑎 𝐹𝑎𝑣𝑜𝑢𝑟 𝐹𝑜𝑙𝑙𝑜𝑤 𝑇ℎ𝑒𝑠𝑒 𝐶ℎ𝑎𝑛𝑛𝑒𝑙𝑠*
 *Whatsapp channel*
-> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
+> https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14
 
 *Youtube*
 > https://www.youtube.com/wemacomic
 
 *For more info*
-> https://github.com/betingrich
+> https://github.com/Sostenstech 
   `;
     
 let menuMsg = `
-> ©Marisel 
+> © Leornard 
 `;
 
    var lien = mybotpic();

@@ -37,13 +37,13 @@ const date = moment().format('DD/MM/YYYY');
    *LEONARD MD IMPORTANT INFO* 
 ❒───────────────────❒
 *GITHUB LINK*
-> https://github.com/Sostenestech/LEONARD
+> https://github.com/Sostenestech/LEONARD-MD
 
 *WHATSAPP CHANNEL*
-> https://whatsapp.com/channel/0029Vajvy2kEwEjwAKP4SI0x
+> https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14
 
 *FOR MORE INFO TAP ON THE LINK BELOW*
-> https://wa.me/254740007567?text=Hi+Leonard+I+Need+Help
+> https://wa.me/255655192476?text=Hi+Leonard+I+Need+Help
 ╭───────────────────❒
 │❒⁠⁠⁠⁠ *RAM* : ${format(os.totalmem() - os.freemem())}/${format(os.totalmem())}
 │❒⁠⁠⁠⁠ *DEV* : *𝗟𝗲𝗼𝗻𝗮𝗿𝗱 *

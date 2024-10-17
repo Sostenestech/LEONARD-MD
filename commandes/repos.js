@@ -2,8 +2,8 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 const { zokou } = require("../framework/zokou");
 
-zokou({ nomCom: "repo", catégorie:"Général", reaction: "📑", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
-  const githubRepo = 'https://api.github.com/repos/Sostenestech/LEORNARD-MD';
+zokou({ nomCom: "repo", catégorie:"Général", reaction: "❄️", nomFichier: __filename }, async (dest, zk, commandeOptions) => {
+  const githubRepo = 'https://api.github.com/repos/Sostenestech/LEONARD-MD';
   const img = 'https://files.catbox.moe/ps8cqh.jpg';
 
   try {

@@ -189,7 +189,7 @@ The WhatsApp Bot LEONAED MD is released under the [MIT License](https://opensour
 
 
 
-<h1 align="center">Hello there 👋 Myself, 𝐋𝐄𝐎𝐍𝐀𝐑𝐃 R. George</h1>
+<h1 align="center">Hello there 👋 Myself, 𝐋𝐄𝐎𝐍𝐀𝐑𝐃 𝐒. 𝐌𝐀𝐊𝐎𝐓𝐀</h1>
 <h3 align="center">Code Craftsman and Passionate Problem Solver.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />

@@ -1,4 +1,4 @@
-###  LEONARD MD WA BOT
+###  𝐋𝐄𝐎𝐍𝐀𝐑𝐃 𝐌𝐃 ✨ 𝐖𝐀 𝐁𝐎𝐓 
 
  <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -49,12 +49,12 @@
 
 
 
-## HOW TO DEPLOY LEONARD MD
+## 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐄𝐏𝐋𝐎𝐘 𝐋𝐄𝐎𝐍𝐀𝐑𝐃 𝐌𝐃 ✨
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
-## 1.FIRST STEP 
-## Fork Leonard Md Repo
+## 1.𝐅𝐈𝐑𝐒𝐓 𝐒𝐓𝐄𝐏 
+## 𝐅𝐨𝐫𝐤 𝐋𝐞𝐨𝐧𝐚𝐫𝐝 𝐌𝐝 𝐑𝐞𝐩𝐨
 👇 👇  👇 👇
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+ℙ𝕃𝔼𝔸𝕊𝔼+𝔽𝕆ℝ𝕂+𝕋ℍ𝔼+ℝ𝔼ℙ𝕆)](https://git.io/typing-svg)
  
@@ -65,7 +65,7 @@
 star✨ my repo if you like this bot🤖
 
 
-## 2.SECOND STEP 
+## 2.𝐒𝐄𝐂𝐎𝐍𝐃 𝐒𝐓𝐄𝐏 
 
 
  GET SESSION ID BY
@@ -75,13 +75,13 @@ star✨ my repo if you like this bot🤖
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+𝕋ℍ𝕀𝕊+𝕀𝕊+𝕊𝔼𝕊𝕊𝕀𝕆ℕ+𝕊𝔼𝕋𝔼😎)](https://git.io/typing-svg)
 
 
-### QR SITE
+### 𝐐𝐑 𝐒𝐈𝐓𝐄
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
 - <a href="https://leonard-sostenes.onrender.com/wasiqr"><img title="Tap Here Open Session Site" src="https://img.shields.io/badge/QR CODE-h?color=green&style=for-the-badge&logo=msi" width="220" height="38.45"/></a></p>
 
-### SESSION SITE
+### 𝐒𝐄𝐒𝐒𝐈𝐎𝐍 𝐒𝐈𝐓𝐄
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
 
@@ -93,7 +93,7 @@ star✨ my repo if you like this bot🤖
 
 
 
-### 3.THIRD STEP 
+### 3.𝐓𝐇𝐈𝐑𝐃 𝐒𝐓𝐄𝐏 
 1. If You Don't Have An Account On Heroku**
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="90" width="100%">
@@ -103,7 +103,7 @@ star✨ my repo if you like this bot🤖
 - <a align="center"><a href="https://signup.heroku.com">
  <img src="https://img.shields.io/badge/Create%20Account%20Now-darkblue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-### 2. If You Have Account On Heroku**👇 👇 👇
+### 2. 𝐈𝐟 𝐘𝐨𝐮 𝐡𝐚𝐯𝐞 𝐀𝐜𝐜𝐨𝐮𝐧𝐭 𝐎𝐧 𝐇𝐞𝐫𝐨𝐤𝐮**👇 👇 👇
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=■+■+■+■+■+100%+𝗦𝗔𝗙𝗘+𝗢𝗡+𝗛𝗘𝗥𝗢𝗞𝗨)](https://git.io/typing-svg)
  
@@ -113,7 +113,7 @@ star✨ my repo if you like this bot🤖
     - <a href='https://dashboard.heroku.com/new?template=https://github.com/sostenestech/LEONARD-MD/tree/main' target="_darkblue"><img alt='DEPLOY TO HEROKU' src="https://img.shields.io/badge/Deploy%20To%20Heroku-darkblue?style=for-the-badge&logo=heroku" width="200" height="38.45"/></a></p>
 
 
-### DEPLOY ON RENDER
+### 𝐃𝐄𝐏𝐋𝐎𝐘 𝐎𝐍 𝐑𝐄𝐍𝐃𝐄𝐑
 
 1. If you don't have an account in RENDER, create one and deploy.
 
@@ -125,7 +125,7 @@ star✨ my repo if you like this bot🤖
 
    ###
 
-CONTACT DEVELOPER ON WHATSAPP 
+𝐂𝐎𝐍𝐓𝐀𝐂𝐓 𝐃𝐄𝐕𝐄𝐋𝐎𝐏𝐄𝐑𝐒 𝐎𝐍 𝐖𝐇𝐀𝐓𝐒𝐀𝐏𝐏 
 
 <a href="https://wa.me/255655192476?text=😊+𝒉𝒆𝒍𝒍𝒐𝒘+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝒊+𝒏𝒆𝒆𝒅+𝒉𝒆𝒍𝒑+𝒕𝒐+𝒐𝒖𝒓+𝒃𝒐𝒕+𝒑𝒍𝒆𝒂𝒔𝒆+😊+" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/leonard tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -141,7 +141,7 @@ CONTACT DEVELOPER ON WHATSAPP
 
 
 
-  ## License
+  ## 𝐋𝐢𝐜𝐞𝐧𝐜𝐞
 
 The WhatsApp Bot LEONAED MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
@@ -152,7 +152,7 @@ The WhatsApp Bot LEONAED MD is released under the [MIT License](https://opensour
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=THIS+IS+LEONARD- MD+MADE+IN+TANZANIA+🇹🇿♥️" alt="Typing SVG" /></a>
 
-## 𝔻𝔼𝕍𝔼𝕃𝕆ℙ𝔼ℝ𝕊 :
+## 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗥𝗦 :
 
 - [**LEONARD TECH**](https://github.com/sostenestech)
 

@@ -170,7 +170,7 @@ The WhatsApp Bot LEONAED MD is released under the [MIT License](https://opensour
 
 <table>
   <tr>
-    <td>𝑳𝑬𝑶𝑵𝑨𝑹𝑫</td></td>
+    <td>𝑲𝒊𝒏𝒈 𝑳𝒆𝒐𝒏𝒂𝒓𝒅👑</td></td>
     <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝑙</td>
   </tr>
   <tr>

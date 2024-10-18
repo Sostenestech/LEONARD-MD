@@ -170,11 +170,11 @@ The WhatsApp Bot LEONAED MD is released under the [MIT License](https://opensour
 
 <table>
   <tr>
-    <td>LEONARD</td></td>
-    <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝒍</td>
+    <td>𝑳𝑬𝑶𝑵𝑨𝑹𝑫</td></td>
+    <td>𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝑪𝒉𝒂𝒏𝒏𝒆𝑙</td>
   </tr>
   <tr>
-    <td><a href="https://wa.me/255655192476?"><img src="https://files.catbox.moe/9bgloy.jpeg" width="180"</td>
+    <td><a href="https://wa.me/255655192476?text=😊+𝒉𝒆𝒍𝒍𝒐𝒘+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝒊+𝒏𝒆𝒆𝒅+𝒉𝒆𝒍𝒑+𝒕𝒐+𝒐𝒖𝒓+𝒃𝒐𝒕+𝒑𝒍𝒆𝒂𝒔𝒆+😊+"><img src="https://files.catbox.moe/9bgloy.jpeg" width="180"</td>
     <td><a href="https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14"><img src="https://files.catbox.moe/zqjprh.jpeg" width="180"</td>
   </tr>
 </table>

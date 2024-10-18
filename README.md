@@ -222,5 +222,5 @@ src='https://files.catbox.moe/5wbnto.jpeg'>
 <p align="center">🇱 🇪 🇴 🇳 🇦 🇷 🇩  🇲 🇩 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+MY+NAME+ IS+𝑳𝑬𝑶𝑵𝑨𝑹𝑫+𝑴𝑫+𝑩𝑶𝑻+𝑪𝑹𝑬𝑨𝑻𝑬𝑫+𝑩𝒀+𝑳𝑬𝑶𝑵𝑨𝑹𝑫+𝑻𝑬𝑪𝑯+𝑭𝒐𝒓𝒌+𝑴𝒆+𝑷𝒍𝒆𝒂𝒔𝒆" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+𝑬𝑵𝑱𝑶𝒀+𝑵𝑬𝑾+𝑽𝑬𝑹𝑺𝑰𝑶𝑵+😊" alt="Typing SVG" /></a>
  </p>

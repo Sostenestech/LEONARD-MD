@@ -426,7 +426,7 @@ function mybotpic() {
                                         id: ms.key.id,
                                         participant: auteurMessage
                                     };
-                                    var txt = "lien detected, \n";
+                                    var txt = "link detected, \n";
                                    // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
                                     const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
                                     var sticker = new Sticker(gifLink, {
@@ -444,7 +444,7 @@ function mybotpic() {
 
                                       if (action === 'remove') {
 
-                                        txt += `message deleted \n @${auteurMessage.split("@")[0]} removed from group.`;
+                                        txt += `message deleted \n @${auteurMessage.split("@")[0]} removed from group by LEONARD MD.`;
 
                                     await zk.sendMessage(origineMessage, { sticker: fs.readFileSync("st1.webp") });
                                     (0, baileys_1.delay)(800);
@@ -542,7 +542,7 @@ function mybotpic() {
 
               if (action === 'remove') {
 
-                txt += `message deleted \n @${auteurMessage.split("@")[0]} removed from group.`;
+                txt += `message deleted \n @${auteurMessage.split("@")[0]} removed from group by LEONARD MD.`;
 
             await zk.sendMessage(origineMessage, { sticker: fs.readFileSync("st1.webp") });
             (0, baileys_1.delay)(800);
@@ -850,8 +850,8 @@ zk.ev.on('group-participants.update', async (group) => {
 
                 let cmsg =`      ❒─❒⁠⁠⁠⁠ *BOT-IS-RUNNING* ❒⁠⁠⁠⁠─⁠⁠⁠⁠❒⁠⁠⁠⁠
 ╭❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠              
-❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : *BRUCE BERA*   
-❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : *BERA TECH*
+❒⁠⁠⁠⁠ 𝑫𝑬𝑽   : *𝐋𝐄𝐎𝐍𝐀𝐑𝐃 𝐓𝐄𝐂𝐇*   
+❒⁠⁠⁠⁠ 𝑩𝑶𝑻   : *𝐋𝐄𝐎𝐍𝐀𝐑𝐃 𝐌𝐃*
 ╰❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠─❒⁠⁠⁠⁠`;
                 await zk.sendMessage(zk.user.id, { text: cmsg });
                 }

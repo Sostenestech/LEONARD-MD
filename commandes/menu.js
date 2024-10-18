@@ -50,7 +50,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰────────────┈⊷`
     }
     menuMsg += `
-> LEORNARD\n
+> LEONARD\n
 `;
    var lien = mybotpic();
    if (lien.match(/\.(mp4|gif)$/i)) {

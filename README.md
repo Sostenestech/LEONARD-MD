@@ -202,7 +202,7 @@ The WhatsApp Bot LEONAED MD is released under the [MIT License](https://opensour
 
 
 
- [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/J54tT9uXXO81QLARCr7qQK))
+ [![JOIN WHATSAPP GROUP](https://raw.githubusercontent.com/Neeraj-x0/Neeraj-x0/main/photos/suddidina-join-whatsapp.png)](https://chat.whatsapp.com/J54tT9uXXO81QLARCr7qQK)
 
 
 

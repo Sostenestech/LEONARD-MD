@@ -1,6 +1,6 @@
 {
-  "name":"LEORNARD MD",
-  "description":"Best whatsapp bot developed by BRUCE BERA",
+  "name":"LEONARD MD",
+  "description":"Best whatsapp bot developed by LEONARD TECH",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://files.catbox.moe/ps8cqh.jpg",
   "repository":"https://github.com/Sostenestech/LEONARD-MD",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"LEORNARD-MD",
+      "value":"LEONARD-MD",
       "required":false
 
     } ,
@@ -74,7 +74,7 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BERA"
+    "value": "KING LEONARD👑"
   },
     "NUMERO_OWNER":
   {

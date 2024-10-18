@@ -55,12 +55,12 @@ zokou({ nomCom: "dev", categorie: "General", reaction: "💎" }, async (dest, zk
     const { ms, mybotpic } = commandeOptions;
 
     const devs = [
-      { nom: "Leornard", numero: "255655192476" },
+      { nom: "Leonard", numero: "255655192476" },
       { nom: "᚛Marisel᚜", numero: "254740007567" },
       // Ajoute d'autres développeurs ici avec leur nom et numéro
     ];
 
-    let message = "WELCOME TO LEORNARD-MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
+    let message = "WELCOME TO LEONARD-MD HELP CENTER! ASK FOR HELP FROM ANY OF THE DEVELOPERS BELOW:\n\n";
     for (const dev of devs) {
       message += `----------------\n• ${dev.nom} : https://wa.me/${dev.numero}\n`;
     }
@@ -94,7 +94,7 @@ else {
 zokou({ nomCom: "support", categorie: "General" }, async (dest, zk, commandeOptions) => {
   const { ms, repondre, auteurMessage, } = commandeOptions; 
  
-  repondre("THANK YOU FOR CHOOSING LEORNARD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@wemacomic] \n\n\n*Created By Leornard") 
-  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING LEORNARD MD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
+  repondre("THANK YOU FOR CHOOSING LEONARD, HERE ARE OUR SUPPORTIVE LINKS\n\n ☉ CHANNEL LINK IS HERE ☉ \n\n❒⁠⁠⁠⁠[https://whatsapp.com/channel/0029VakLfckBlHpYVxryFJ14] \n\n ☉ GROUP LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://chat.whatsapp.com/J54tT9uXXO81QLARCr7qQK] \n\n ☉YOUTUBE LINK IS HERE ☉\n\n❒⁠⁠⁠⁠[https://www.youtube.com/@wemacomic] \n\n\n*Created By King Leonard Tech") 
+  await zk.sendMessage(auteurMessage,{text : `THANK YOU FOR CHOOSING LEONARD MD,MAKE SURE YOU FOLLOW THESE LINKS. `},{quoted :ms})
 
 })

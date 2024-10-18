@@ -53,7 +53,7 @@ const date = moment().format('DD/MM/YYYY');
 ╰────────────┈⊷`
     }
     menuMsg += `
-> Leornard \n
+> Leonard \n
 `;
    var lien = mybotpic();
    if (lien.match(/\.(mp4|gif)$/i)) {

@@ -43,7 +43,7 @@ const date = moment().format('DD/MM/YYYY');
  ${message}
  
  
- *LEORNARD-MD -WABOT*`
+ *LEONARD-MD -WABOT*`
 
  if (lien.match(/\.(mp4|gif)$/i)) {
     try {
@@ -71,9 +71,9 @@ else {
 }
 
     } else {
-        if(!superUser) { repondre("😂😂ushai ona enzo ikilala") ; return};
+        if(!superUser) { repondre("😂😂ushai ona leonard ikilala") ; return};
 
-      await   repondre("sasa ata we tu ushaiskia enzo md imelala😂😂we  fanya kitu ya maana");
+      await   repondre("sasa ata we tu ushaiskia leonard md imelala😂😂we  fanya kitu ya maana");
          repondre("nmeenda😂 :)")
      }
  } else {
@@ -88,7 +88,7 @@ else {
     
 await addOrUpdateDataInAlive(texte , tlien)
 
-repondre(' Holla🥴, *LEORNARD-MD BOT* is alive just like you gee. ')
+repondre(' Holla🥴, *LEONARD-MD BOT* is alive just like you gee. ')
 
 }
     });

@@ -127,7 +127,7 @@ star✨ my repo if you like this bot🤖
 
 CONTACT DEVELOPER ON WHATSAPP 
 
-<a href="https://wa.me/255655192476" target="_blank">
+<a href="https://wa.me/255655192476?https://wa.me/255757103671?text=😊+𝒉𝒆𝒍𝒍𝒐𝒘+𝐋𝐄𝐎𝐍𝐀𝐑𝐃+𝐌𝐃+𝒊+𝒏𝒆𝒆𝒅+𝒉𝒆𝒍𝒑+𝒕𝒐+𝒐𝒖𝒓+𝒃𝒐𝒕+𝒑𝒍𝒆𝒂𝒔𝒆+😊+" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/leonard tech contact -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 

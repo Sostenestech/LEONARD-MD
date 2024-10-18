@@ -48,7 +48,7 @@ const date = moment().format('DD/MM/YYYY');
   `;
     
 let menuMsg = `
-> © Leornard 
+> © Leonard 
 `;
 
    var lien = mybotpic();

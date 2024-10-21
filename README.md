@@ -225,3 +225,15 @@ src='https://files.catbox.moe/5wbnto.jpeg'>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+𝗘𝗡𝗝𝗢𝗬+𝗧𝗛𝗘+𝗡𝗘𝗪+𝗩𝗘𝗥𝗦𝗜𝗢𝗡" alt="Typing SVG" /></a>
  </p>
 
+
+
+
+
+
+ **❤️Supporters I Love You❤️**
+
+
+[![Stargazers repo roster for @sostenestech/LEONARD-MD](http://reporoster.com/stars/dark/sostenestech/LEONARD-MD)](https://github.com/sostenestech/LEONARD-MD/stargazers)
+     
+[![Forkers repo roster for @sostenestech/LEONARD-MD](http://reporoster.com/forks/dark/sostenestech/LEONARD-MD)](https://github.com/sostenestech/LEONARD-MD/network/members)
+

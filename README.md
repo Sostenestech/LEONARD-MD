@@ -222,14 +222,6 @@ src='https://files.catbox.moe/5wbnto.jpeg'>
 <p align="center">🇱 🇪 🇴 🇳 🇦 🇷 🇩  🇲 🇩 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+𝑬𝑵𝑱𝑶𝒀+𝑵𝑬𝑾+𝑽𝑬𝑹𝑺𝑰𝑶𝑵+🤏+😎" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+𝗘𝗡𝗝𝗢𝗬+𝗡𝗘𝗪+𝗩𝗘𝗥𝗦𝗜𝗢𝗡+🤏+😎" alt="Typing SVG" /></a>
  </p>
-
-
-
-
- ### ❤️𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐫𝐬 𝐈 𝐋𝐨𝐯𝐞 𝐘𝐨𝐮❤️
-[![Stargazers repo roster for @sostenestech/leonard](http://reporoster.com/stars/dark/sostenestech/leonard)](https://github.com/sostenestech/leonard-md/stargazers)
-     
-[![Forkers repo roster for @sostenestech/leonard](http://reporoster.com/forks/dark/sostenestech/leonard)](https://github.com/sostenestech/leonard-md/network/members)
 

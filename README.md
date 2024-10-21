@@ -143,9 +143,9 @@ star✨ my repo if you like this bot🤖
 
   ## 𝐋𝐢𝐜𝐞𝐧𝐜𝐞
 
-The WhatsApp Bot LEONAED MD is released under the [MIT License](https://opensource.org/licenses/MIT).
+The WhatsApp Bot LEONARD MD is released under the [MIT License](https://opensource.org/licenses/MIT).
 
- <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+number-one; don't-trust+any one+🖐️😊;DEVELOPED+BY+LEONARD+TECH;RELEASED+DATE+22%2F6%2F2024." alt="Typing SVG" /></a>
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•Role+number-one; don't-trust+any one+🖐️😊;DEVELOPED+BY+LEONARD+TECH;RELEASED+DATE+01%2F10%2F2024." alt="Typing SVG" /></a>
 
 
 🌟 𝕋ℍ𝔸ℕ𝕂 𝕐𝕆𝕌 𝔽𝕆ℝ ℂℍ𝕆𝕆𝕊𝕀ℕ𝔾 LEONARD🍀_MD 🌟
@@ -222,6 +222,6 @@ src='https://files.catbox.moe/5wbnto.jpeg'>
 <p align="center">🇱 🇪 🇴 🇳 🇦 🇷 🇩  🇲 🇩 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+𝗘𝗡𝗝𝗢𝗬+𝗡𝗘𝗪+𝗩𝗘𝗥𝗦𝗜𝗢𝗡+😎" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=900&size=30&duration=4000&pause=1000&random=false&width=435&lines=+𝗘𝗡𝗝𝗢𝗬+𝗧𝗛𝗘+𝗡𝗘𝗪+𝗩𝗘𝗥𝗦𝗜𝗢𝗡+😎" alt="Typing SVG" /></a>
  </p>
 

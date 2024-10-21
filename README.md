@@ -228,7 +228,7 @@ src='https://files.catbox.moe/5wbnto.jpeg'>
 
 
 
- ### ♥️𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐫𝐬 𝐈 𝐋𝐨𝐯𝐞 𝐘𝐨𝐮♥️
+ ### ❤️𝐒𝐮𝐩𝐩𝐨𝐫𝐭𝐞𝐫𝐬 𝐈 𝐋𝐨𝐯𝐞 𝐘𝐨𝐮❤️
 [![Stargazers repo roster for @sostenestech/leonard-md](http://reporoster.com/stars/dark/sostenestech/leonard-md)](https://github.com/sostenestech/leonard-md/stargazers)
      
 [![Forkers repo roster for @sostenestech/leonard-md](http://reporoster.com/forks/dark/sostenestech/leonard-md)](https://github.com/sostenestech/leonard-md/network/members)
